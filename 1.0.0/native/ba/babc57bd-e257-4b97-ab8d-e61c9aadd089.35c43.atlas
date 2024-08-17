@@ -1,0 +1,426 @@
+
+spin_button.png
+size: 1962,1722
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+asb_sweep_light_unpack/sb_hover_auto_add_00
+  rotate: true
+  xy: 675, 1465
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+asb_sweep_light_unpack/sb_hover_auto_add_01
+  rotate: true
+  xy: 761, 1207
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+asb_sweep_light_unpack/sb_hover_auto_add_02
+  rotate: true
+  xy: 932, 1465
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+asb_sweep_light_unpack/sb_hover_auto_add_03
+  rotate: true
+  xy: 463, 444
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+asb_sweep_light_unpack/sb_hover_auto_add_04
+  rotate: true
+  xy: 652, 756
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+asb_sweep_light_unpack/sb_hover_auto_add_05
+  rotate: true
+  xy: 680, 186
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+asb_sweep_light_unpack/sb_hover_auto_add_06
+  rotate: true
+  xy: 720, 498
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+asb_sweep_light_unpack/sb_hover_auto_add_07
+  rotate: true
+  xy: 909, 773
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+asb_sweep_light_unpack/sb_hover_auto_add_08
+  rotate: true
+  xy: 1018, 1207
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+asb_sweep_light_unpack/sb_hover_auto_add_09
+  rotate: true
+  xy: 1189, 1465
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+asb_sweep_light_unpack/sb_hover_auto_add_10
+  rotate: true
+  xy: 937, 240
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+asb_sweep_light_unpack/sb_hover_auto_add_11
+  rotate: true
+  xy: 977, 515
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+asb_sweep_light_unpack/sb_hover_auto_add_12
+  rotate: true
+  xy: 1166, 773
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+asb_sweep_light_unpack/sb_hover_auto_add_13
+  rotate: true
+  xy: 1275, 1207
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+asb_sweep_light_unpack/sb_hover_auto_add_14
+  rotate: true
+  xy: 1446, 1465
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+fs_start_end_fw_particles_unpack/mtp_vfx_c_add_00
+  rotate: false
+  xy: 639, 1014
+  size: 221, 131
+  orig: 365, 275
+  offset: 64, 81
+  index: -1
+fs_start_end_fw_particles_unpack/mtp_vfx_c_add_01
+  rotate: true
+  xy: 504, 1462
+  size: 259, 169
+  orig: 365, 275
+  offset: 45, 60
+  index: -1
+fs_start_end_fw_particles_unpack/mtp_vfx_c_add_02
+  rotate: true
+  xy: 457, 702
+  size: 285, 193
+  orig: 365, 275
+  offset: 32, 46
+  index: -1
+fs_start_end_fw_particles_unpack/mtp_vfx_c_add_03
+  rotate: true
+  xy: 287, 1109
+  size: 301, 209
+  orig: 365, 275
+  offset: 24, 38
+  index: -1
+fs_start_end_fw_particles_unpack/mtp_vfx_c_add_04
+  rotate: true
+  xy: 287, 1412
+  size: 309, 215
+  orig: 365, 275
+  offset: 20, 33
+  index: -1
+fs_start_end_fw_particles_unpack/mtp_vfx_c_add_05
+  rotate: true
+  xy: 455, 26
+  size: 315, 223
+  orig: 365, 275
+  offset: 17, 29
+  index: -1
+fs_start_end_fw_particles_unpack/mtp_vfx_c_add_06
+  rotate: true
+  xy: 234, 343
+  size: 319, 227
+  orig: 365, 275
+  offset: 15, 27
+  index: -1
+fs_start_end_fw_particles_unpack/mtp_vfx_c_add_07
+  rotate: true
+  xy: 1, 10
+  size: 323, 231
+  orig: 365, 275
+  offset: 13, 25
+  index: -1
+fs_start_end_fw_particles_unpack/mtp_vfx_c_add_08
+  rotate: true
+  xy: 1, 662
+  size: 325, 231
+  orig: 365, 275
+  offset: 12, 25
+  index: -1
+fs_start_end_fw_particles_unpack/mtp_vfx_c_add_09
+  rotate: true
+  xy: 1, 335
+  size: 325, 231
+  orig: 365, 275
+  offset: 13, 24
+  index: -1
+fs_start_end_fw_particles_unpack/mtp_vfx_c_add_10
+  rotate: true
+  xy: 234, 664
+  size: 323, 221
+  orig: 365, 275
+  offset: 14, 27
+  index: -1
+fs_start_end_fw_particles_unpack/mtp_vfx_c_add_11
+  rotate: true
+  xy: 234, 22
+  size: 319, 219
+  orig: 365, 275
+  offset: 16, 28
+  index: -1
+reel_border_pattern_unpack/sb_vfx_a_screen_00
+  rotate: true
+  xy: 287, 989
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+reel_border_pattern_unpack/sb_vfx_a_screen_01
+  rotate: true
+  xy: 463, 989
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+reel_border_pattern_unpack/sb_vfx_a_screen_02
+  rotate: false
+  xy: 862, 1031
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+reel_border_pattern_unpack/sb_vfx_a_screen_03
+  rotate: false
+  xy: 680, 10
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+reel_border_pattern_unpack/sb_vfx_a_screen_04
+  rotate: false
+  xy: 800, 10
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+reel_border_pattern_unpack/sb_vfx_a_screen_05
+  rotate: false
+  xy: 920, 10
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+reel_border_pattern_unpack/sb_vfx_a_screen_06
+  rotate: false
+  xy: 982, 1031
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+reel_border_pattern_unpack/sb_vfx_a_screen_07
+  rotate: false
+  xy: 1102, 1031
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+reel_border_pattern_unpack/sb_vfx_a_screen_08
+  rotate: false
+  xy: 1222, 1031
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+reel_border_pattern_unpack/sb_vfx_a_screen_09
+  rotate: false
+  xy: 1342, 1031
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+reel_border_pattern_unpack/sb_vfx_a_screen_10
+  rotate: false
+  xy: 1462, 1031
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+reel_border_pattern_unpack/sb_vfx_a_screen_11
+  rotate: false
+  xy: 1582, 1040
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+reel_border_pattern_unpack/sb_vfx_a_screen_12
+  rotate: false
+  xy: 1702, 1040
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+reel_border_pattern_unpack/sb_vfx_a_screen_13
+  rotate: true
+  xy: 1778, 1354
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+reel_border_pattern_unpack/sb_vfx_a_screen_14
+  rotate: true
+  xy: 1778, 1234
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+reel_border_pattern_unpack/sb_vfx_a_screen_15
+  rotate: false
+  xy: 1822, 1058
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+reel_border_pattern_unpack/sb_vfx_a_screen_16
+  rotate: true
+  xy: 1752, 203
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+reel_border_pattern_unpack/sb_vfx_a_screen_17
+  rotate: false
+  xy: 1752, 27
+  size: 118, 174
+  orig: 118, 174
+  offset: 0, 0
+  index: -1
+sb_sweep_light_unpack/sb_hover_spin_add_00
+  rotate: false
+  xy: 1522, 44
+  size: 228, 229
+  orig: 256, 255
+  offset: 14, 15
+  index: -1
+sb_sweep_light_unpack/sb_hover_spin_add_01
+  rotate: false
+  xy: 1040, 1
+  size: 234, 237
+  orig: 256, 255
+  offset: 11, 11
+  index: -1
+sb_sweep_light_unpack/sb_hover_spin_add_02
+  rotate: false
+  xy: 1480, 539
+  size: 238, 241
+  orig: 256, 255
+  offset: 9, 9
+  index: -1
+sb_sweep_light_unpack/sb_hover_spin_add_04
+  rotate: false
+  xy: 1194, 266
+  size: 244, 247
+  orig: 256, 255
+  offset: 6, 6
+  index: -1
+sb_sweep_light_unpack/sb_hover_spin_add_05
+  rotate: false
+  xy: 1234, 524
+  size: 244, 247
+  orig: 256, 255
+  offset: 6, 6
+  index: -1
+sb_sweep_light_unpack/sb_hover_spin_add_06
+  rotate: false
+  xy: 1423, 782
+  size: 244, 247
+  orig: 256, 255
+  offset: 6, 6
+  index: -1
+sb_sweep_light_unpack/sb_hover_spin_add_07
+  rotate: false
+  xy: 1532, 1216
+  size: 244, 247
+  orig: 256, 255
+  offset: 6, 6
+  index: -1
+sb_sweep_light_unpack/sb_hover_spin_add_09
+  rotate: false
+  xy: 1703, 1474
+  size: 244, 247
+  orig: 256, 255
+  offset: 6, 6
+  index: -1
+sb_sweep_light_unpack/sb_hover_spin_add_10
+  rotate: false
+  xy: 1276, 17
+  size: 244, 247
+  orig: 256, 255
+  offset: 6, 6
+  index: -1
+sb_sweep_light_unpack/sb_hover_spin_add_11
+  rotate: false
+  xy: 1440, 275
+  size: 244, 247
+  orig: 256, 255
+  offset: 6, 6
+  index: -1
+sb_sweep_light_unpack/sb_hover_spin_add_12
+  rotate: false
+  xy: 1669, 797
+  size: 238, 241
+  orig: 256, 255
+  offset: 9, 9
+  index: -1
+sb_sweep_light_unpack/sb_hover_spin_add_13
+  rotate: true
+  xy: 1720, 557
+  size: 238, 241
+  orig: 256, 255
+  offset: 9, 9
+  index: -1
+sb_sweep_light_unpack/sb_hover_spin_add_14
+  rotate: true
+  xy: 1720, 323
+  size: 232, 233
+  orig: 256, 255
+  offset: 12, 13
+  index: -1
+spin_button_click_animation_unpack/sb_vfx_c_add
+  rotate: false
+  xy: 498, 1147
+  size: 261, 263
+  orig: 261, 263
+  offset: 0, 0
+  index: -1
+spin_button_click_animation_unpack/sb_vfx_e_screen
+  rotate: true
+  xy: 1, 989
+  size: 732, 284
+  orig: 732, 284
+  offset: 0, 0
+  index: -1

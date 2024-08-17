@@ -1,0 +1,285 @@
+
+jiasu.jpg
+size: 2003,2026
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+free_particle_unpack/fs_vfx_b_normal_00
+  rotate: false
+  xy: 1865, 1440
+  size: 137, 585
+  orig: 186, 631
+  offset: 14, 31
+  index: -1
+free_particle_unpack/fs_vfx_b_normal_01
+  rotate: true
+  xy: 1, 1283
+  size: 136, 588
+  orig: 186, 631
+  offset: 14, 29
+  index: -1
+free_particle_unpack/fs_vfx_b_normal_02
+  rotate: true
+  xy: 1, 1429
+  size: 130, 587
+  orig: 186, 631
+  offset: 14, 29
+  index: -1
+free_particle_unpack/fs_vfx_b_normal_03
+  rotate: true
+  xy: 1, 1924
+  size: 101, 580
+  orig: 186, 631
+  offset: 15, 28
+  index: -1
+free_particle_unpack/fs_vfx_b_normal_04
+  rotate: true
+  xy: 583, 1912
+  size: 113, 586
+  orig: 186, 631
+  offset: 14, 31
+  index: -1
+free_particle_unpack/fs_vfx_b_normal_05
+  rotate: true
+  xy: 1149, 1795
+  size: 115, 585
+  orig: 186, 631
+  offset: 15, 29
+  index: -1
+free_particle_unpack/fs_vfx_b_normal_06
+  rotate: true
+  xy: 541, 1561
+  size: 117, 570
+  orig: 186, 631
+  offset: 14, 47
+  index: -1
+free_particle_unpack/fs_vfx_b_normal_07
+  rotate: true
+  xy: 551, 1680
+  size: 115, 573
+  orig: 186, 631
+  offset: 14, 39
+  index: -1
+free_particle_unpack/fs_vfx_b_normal_08
+  rotate: true
+  xy: 1171, 1912
+  size: 113, 558
+  orig: 186, 631
+  offset: 15, 32
+  index: -1
+free_particle_unpack/fs_vfx_b_normal_09
+  rotate: true
+  xy: 1, 1691
+  size: 115, 548
+  orig: 186, 631
+  offset: 14, 39
+  index: -1
+free_particle_unpack/fs_vfx_b_normal_10
+  rotate: true
+  xy: 1, 1808
+  size: 114, 555
+  orig: 186, 631
+  offset: 14, 31
+  index: -1
+free_particle_unpack/fs_vfx_b_normal_11
+  rotate: true
+  xy: 558, 1797
+  size: 113, 589
+  orig: 186, 631
+  offset: 14, 28
+  index: -1
+free_particle_unpack/fs_vfx_b_normal_12
+  rotate: true
+  xy: 1, 1572
+  size: 117, 538
+  orig: 186, 631
+  offset: 15, 73
+  index: -1
+free_particle_unpack/fs_vfx_b_normal_13
+  rotate: true
+  xy: 1126, 1677
+  size: 116, 538
+  orig: 186, 631
+  offset: 15, 64
+  index: -1
+free_particle_unpack/fs_vfx_b_normal_14
+  rotate: true
+  xy: 1113, 1555
+  size: 120, 561
+  orig: 186, 631
+  offset: 14, 54
+  index: -1
+free_particle_unpack/fs_vfx_b_normal_15
+  rotate: false
+  xy: 1736, 1455
+  size: 127, 570
+  orig: 186, 631
+  offset: 14, 30
+  index: -1
+free_particle_unpack/fs_vfx_b_normal_16
+  rotate: true
+  xy: 590, 1421
+  size: 132, 588
+  orig: 186, 631
+  offset: 14, 28
+  index: -1
+free_particle_unpack/fs_vfx_b_normal_17
+  rotate: true
+  xy: 1180, 1319
+  size: 134, 588
+  orig: 186, 631
+  offset: 14, 29
+  index: -1
+free_particle_unpack/fs_vfx_b_normal_18
+  rotate: true
+  xy: 591, 1181
+  size: 136, 588
+  orig: 186, 631
+  offset: 14, 29
+  index: -1
+speedup_reel_border_unpack/fs_vfx_a_add_00
+  rotate: true
+  xy: 612, 849
+  size: 234, 609
+  orig: 284, 631
+  offset: 0, 12
+  index: -1
+speedup_reel_border_unpack/fs_vfx_a_add_01
+  rotate: true
+  xy: 1223, 849
+  size: 234, 609
+  orig: 284, 631
+  offset: 0, 11
+  index: -1
+speedup_reel_border_unpack/fs_vfx_a_add_02
+  rotate: true
+  xy: 1, 711
+  size: 234, 609
+  orig: 284, 631
+  offset: 0, 11
+  index: -1
+speedup_reel_border_unpack/fs_vfx_a_add_03
+  rotate: true
+  xy: 612, 613
+  size: 234, 609
+  orig: 284, 631
+  offset: 0, 12
+  index: -1
+speedup_reel_border_unpack/fs_vfx_a_add_04
+  rotate: true
+  xy: 1223, 613
+  size: 234, 609
+  orig: 284, 631
+  offset: 0, 11
+  index: -1
+speedup_reel_border_unpack/fs_vfx_a_add_05
+  rotate: true
+  xy: 1, 475
+  size: 234, 609
+  orig: 284, 631
+  offset: 0, 11
+  index: -1
+speedup_reel_border_unpack/fs_vfx_a_add_06
+  rotate: true
+  xy: 612, 377
+  size: 234, 609
+  orig: 284, 631
+  offset: 0, 11
+  index: -1
+speedup_reel_border_unpack/fs_vfx_a_add_07
+  rotate: true
+  xy: 1, 1
+  size: 236, 609
+  orig: 284, 631
+  offset: 0, 11
+  index: -1
+speedup_reel_border_unpack/fs_vfx_a_add_13
+  rotate: true
+  xy: 1223, 377
+  size: 234, 609
+  orig: 284, 631
+  offset: 0, 11
+  index: -1
+speedup_reel_border_unpack/fs_vfx_a_add_14
+  rotate: true
+  xy: 1181, 1085
+  size: 232, 609
+  orig: 284, 631
+  offset: 0, 11
+  index: -1
+speedup_reel_border_unpack/fs_vfx_a_add_15
+  rotate: true
+  xy: 1, 239
+  size: 234, 609
+  orig: 284, 631
+  offset: 0, 11
+  index: -1
+speedup_reel_border_unpack/fs_vfx_a_add_16
+  rotate: true
+  xy: 1, 947
+  size: 232, 609
+  orig: 284, 631
+  offset: 0, 11
+  index: -1
+speedup_reel_border_unpack/fs_vfx_a_add_17
+  rotate: true
+  xy: 612, 141
+  size: 234, 609
+  orig: 284, 631
+  offset: 0, 11
+  index: -1
+speedup_reel_border_unpack/fs_vfx_a_add_18
+  rotate: true
+  xy: 1223, 141
+  size: 234, 609
+  orig: 284, 631
+  offset: 0, 11
+  index: -1
+
+jiasu2.jpg
+size: 1688,611
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+reel_acceleration
+  rotate: true
+  xy: 955, 315
+  size: 295, 732
+  orig: 295, 732
+  offset: 0, 0
+  index: -1
+speedup_reel_border_unpack/fs_vfx_a_add_08
+  rotate: false
+  xy: 241, 1
+  size: 236, 609
+  orig: 284, 631
+  offset: 0, 11
+  index: -1
+speedup_reel_border_unpack/fs_vfx_a_add_09
+  rotate: false
+  xy: 479, 1
+  size: 236, 609
+  orig: 284, 631
+  offset: 0, 11
+  index: -1
+speedup_reel_border_unpack/fs_vfx_a_add_10
+  rotate: false
+  xy: 717, 1
+  size: 236, 609
+  orig: 284, 631
+  offset: 0, 11
+  index: -1
+speedup_reel_border_unpack/fs_vfx_a_add_11
+  rotate: true
+  xy: 955, 77
+  size: 236, 609
+  orig: 284, 631
+  offset: 0, 11
+  index: -1
+speedup_reel_border_unpack/fs_vfx_a_add_12
+  rotate: false
+  xy: 1, 1
+  size: 238, 609
+  orig: 284, 631
+  offset: 0, 11
+  index: -1

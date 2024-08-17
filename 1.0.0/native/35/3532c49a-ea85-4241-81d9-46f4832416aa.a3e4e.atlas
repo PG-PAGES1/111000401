@@ -1,0 +1,250 @@
+
+free_spin.png
+size: 2031,1955
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+freespin_end_ coin_toss
+  rotate: false
+  xy: 997, 575
+  size: 585, 781
+  orig: 585, 797
+  offset: 0, 10
+  index: -1
+freespin_start_ mask_model_unpack/bl_mask_a
+  rotate: true
+  xy: 1053, 1442
+  size: 512, 753
+  orig: 512, 763
+  offset: 0, 0
+  index: -1
+freespin_start_mask_model2_unpack/bl_mask_b
+  rotate: true
+  xy: 1, 1
+  size: 473, 525
+  orig: 485, 535
+  offset: 7, 6
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_00
+  rotate: false
+  xy: 537, 1217
+  size: 72, 72
+  orig: 438, 432
+  offset: 186, 198
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_01
+  rotate: true
+  xy: 381, 1139
+  size: 150, 154
+  orig: 438, 432
+  offset: 146, 157
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_02
+  rotate: false
+  xy: 759, 946
+  size: 208, 220
+  orig: 438, 432
+  offset: 118, 124
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_03
+  rotate: false
+  xy: 528, 168
+  size: 260, 270
+  orig: 438, 432
+  offset: 91, 99
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_07
+  rotate: false
+  xy: 1660, 203
+  size: 370, 374
+  orig: 438, 432
+  offset: 36, 38
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_08
+  rotate: true
+  xy: 1584, 579
+  size: 380, 382
+  orig: 438, 432
+  offset: 33, 30
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_13
+  rotate: true
+  xy: 824, 157
+  size: 416, 418
+  orig: 438, 432
+  offset: 14, 4
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_14
+  rotate: false
+  xy: 1584, 961
+  size: 412, 414
+  orig: 438, 432
+  offset: 16, 8
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_15
+  rotate: false
+  xy: 1244, 159
+  size: 414, 414
+  orig: 438, 432
+  offset: 16, 3
+  index: -1
+fs_buttom_light_unpack/bl_vfx_b_add
+  rotate: false
+  xy: 1, 476
+  size: 756, 657
+  orig: 756, 657
+  offset: 0, 0
+  index: -1
+fs_buttom_light_unpack/bl_vfx_e_add
+  rotate: true
+  xy: 381, 1358
+  size: 596, 670
+  orig: 596, 670
+  offset: 0, 0
+  index: -1
+fs_start_end_fw_trail2_unpack/bl_vfx_d_add_00
+  rotate: true
+  xy: 611, 1226
+  size: 63, 250
+  orig: 125, 1056
+  offset: 26, 0
+  index: -1
+fs_start_end_fw_trail2_unpack/bl_vfx_d_add_01
+  rotate: false
+  xy: 759, 440
+  size: 63, 504
+  orig: 125, 1056
+  offset: 26, 0
+  index: -1
+fs_start_end_fw_trail2_unpack/bl_vfx_d_add_02
+  rotate: true
+  xy: 1053, 1377
+  size: 63, 628
+  orig: 125, 1056
+  offset: 25, 128
+  index: -1
+fs_start_end_fw_trail2_unpack/bl_vfx_d_add_03
+  rotate: true
+  xy: 381, 1291
+  size: 65, 614
+  orig: 125, 1056
+  offset: 30, 388
+  index: -1
+fs_start_end_fw_trail2_unpack/bl_vfx_d_add_04
+  rotate: true
+  xy: 537, 1168
+  size: 47, 356
+  orig: 125, 1056
+  offset: 39, 639
+  index: -1
+fs_start_end_fw_trail2_unpack/bl_vfx_d_add_05
+  rotate: true
+  xy: 863, 1260
+  size: 29, 100
+  orig: 125, 1056
+  offset: 48, 886
+  index: -1
+scatter_animation
+  rotate: false
+  xy: 1, 1135
+  size: 378, 819
+  orig: 378, 819
+  offset: 0, 0
+  index: -1
+
+free_spin2.png
+size: 1760,1173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_04
+  rotate: false
+  xy: 1461, 460
+  size: 298, 308
+  orig: 438, 432
+  offset: 72, 79
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_05
+  rotate: false
+  xy: 763, 424
+  size: 328, 338
+  orig: 438, 432
+  offset: 57, 63
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_06
+  rotate: false
+  xy: 409, 424
+  size: 352, 350
+  orig: 438, 432
+  offset: 45, 50
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_09
+  rotate: false
+  xy: 1205, 34
+  size: 392, 394
+  orig: 438, 432
+  offset: 27, 21
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_10
+  rotate: false
+  xy: 1326, 770
+  size: 402, 402
+  orig: 438, 432
+  offset: 21, 16
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_11
+  rotate: true
+  xy: 1, 1
+  size: 410, 408
+  orig: 438, 432
+  offset: 17, 12
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_12
+  rotate: true
+  xy: 914, 764
+  size: 408, 410
+  orig: 438, 432
+  offset: 20, 10
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_16
+  rotate: false
+  xy: 1, 413
+  size: 406, 422
+  orig: 438, 432
+  offset: 26, 0
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_17
+  rotate: true
+  xy: 498, 776
+  size: 396, 414
+  orig: 438, 432
+  offset: 25, 0
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_18
+  rotate: false
+  xy: 809, 26
+  size: 394, 396
+  orig: 438, 432
+  offset: 26, 17
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_19
+  rotate: false
+  xy: 411, 24
+  size: 396, 398
+  orig: 438, 432
+  offset: 25, 17
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_20
+  rotate: true
+  xy: 1093, 430
+  size: 332, 366
+  orig: 438, 432
+  offset: 87, 17
+  index: -1
+fs_buttom_light_unpack/bl_vfx_c_add
+  rotate: false
+  xy: 1, 837
+  size: 495, 335
+  orig: 495, 335
+  offset: 0, 0
+  index: -1

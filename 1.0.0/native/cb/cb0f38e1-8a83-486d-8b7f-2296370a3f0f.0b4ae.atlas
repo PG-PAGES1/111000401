@@ -1,0 +1,340 @@
+
+free_spin.png
+size: 2046,1915
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+free_particle2_unpack/tw_confetti_00
+  rotate: false
+  xy: 844, 3
+  size: 432, 404
+  orig: 468, 484
+  offset: 29, 0
+  index: -1
+free_particle2_unpack/tw_confetti_12
+  rotate: false
+  xy: 413, 13
+  size: 429, 401
+  orig: 468, 484
+  offset: 26, 0
+  index: -1
+free_particle2_unpack/tw_confetti_13
+  rotate: false
+  xy: 795, 820
+  size: 429, 395
+  orig: 468, 484
+  offset: 25, 2
+  index: -1
+freespin_counting_basemap
+  rotate: true
+  xy: 1226, 789
+  size: 378, 819
+  orig: 378, 819
+  offset: 0, 0
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_00
+  rotate: false
+  xy: 1849, 1842
+  size: 72, 72
+  orig: 438, 432
+  offset: 186, 198
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_01
+  rotate: true
+  xy: 617, 1699
+  size: 150, 154
+  orig: 438, 432
+  offset: 146, 157
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_02
+  rotate: true
+  xy: 773, 1641
+  size: 208, 220
+  orig: 438, 432
+  offset: 118, 124
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_03
+  rotate: true
+  xy: 1248, 1589
+  size: 260, 270
+  orig: 438, 432
+  offset: 91, 99
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_04
+  rotate: true
+  xy: 1520, 1551
+  size: 298, 308
+  orig: 438, 432
+  offset: 72, 79
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_05
+  rotate: true
+  xy: 1, 1454
+  size: 328, 338
+  orig: 438, 432
+  offset: 57, 63
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_06
+  rotate: false
+  xy: 709, 1246
+  size: 352, 350
+  orig: 438, 432
+  offset: 45, 50
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_07
+  rotate: true
+  xy: 1063, 1217
+  size: 370, 374
+  orig: 438, 432
+  offset: 36, 38
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_08
+  rotate: true
+  xy: 1439, 1169
+  size: 380, 382
+  orig: 438, 432
+  offset: 33, 30
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_09
+  rotate: true
+  xy: 1, 971
+  size: 392, 394
+  orig: 438, 432
+  offset: 27, 21
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_10
+  rotate: false
+  xy: 817, 416
+  size: 402, 402
+  orig: 438, 432
+  offset: 21, 16
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_11
+  rotate: false
+  xy: 1, 42
+  size: 410, 408
+  orig: 438, 432
+  offset: 17, 12
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_16
+  rotate: true
+  xy: 1278, 1
+  size: 406, 422
+  orig: 438, 432
+  offset: 26, 0
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_17
+  rotate: true
+  xy: 1, 452
+  size: 396, 414
+  orig: 438, 432
+  offset: 25, 0
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_18
+  rotate: true
+  xy: 397, 850
+  size: 394, 396
+  orig: 438, 432
+  offset: 26, 17
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_19
+  rotate: true
+  xy: 417, 422
+  size: 396, 398
+  orig: 438, 432
+  offset: 25, 17
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_20
+  rotate: true
+  xy: 341, 1365
+  size: 332, 366
+  orig: 438, 432
+  offset: 87, 17
+  index: -1
+fs_start_end_fw_trail2_unpack/bl_vfx_d_add_00
+  rotate: true
+  xy: 461, 1851
+  size: 63, 250
+  orig: 125, 1056
+  offset: 26, 0
+  index: -1
+fs_start_end_fw_trail2_unpack/bl_vfx_d_add_01
+  rotate: true
+  xy: 713, 1851
+  size: 63, 504
+  orig: 125, 1056
+  offset: 26, 0
+  index: -1
+fs_start_end_fw_trail2_unpack/bl_vfx_d_add_02
+  rotate: true
+  xy: 1219, 1851
+  size: 63, 628
+  orig: 125, 1056
+  offset: 25, 128
+  index: -1
+fs_start_end_fw_trail2_unpack/bl_vfx_d_add_03
+  rotate: true
+  xy: 1, 1784
+  size: 65, 614
+  orig: 125, 1056
+  offset: 30, 388
+  index: -1
+fs_start_end_fw_trail2_unpack/bl_vfx_d_add_04
+  rotate: true
+  xy: 103, 1867
+  size: 47, 356
+  orig: 125, 1056
+  offset: 39, 639
+  index: -1
+fs_start_end_fw_trail2_unpack/bl_vfx_d_add_05
+  rotate: true
+  xy: 1, 1885
+  size: 29, 100
+  orig: 125, 1056
+  offset: 48, 886
+  index: -1
+scatter_animation
+  rotate: true
+  xy: 1221, 409
+  size: 378, 819
+  orig: 378, 819
+  offset: 0, 0
+  index: -1
+scatter_counting_light_unpack/sc_vfx_d_screen
+  rotate: false
+  xy: 995, 1598
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+
+free_spin2.png
+size: 1899,1854
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+free_particle2_unpack/tw_confetti_02
+  rotate: true
+  xy: 1367, 7
+  size: 457, 452
+  orig: 468, 484
+  offset: 0, 0
+  index: -1
+free_particle2_unpack/tw_confetti_03
+  rotate: true
+  xy: 1, 1
+  size: 463, 448
+  orig: 468, 484
+  offset: 0, 6
+  index: -1
+free_particle2_unpack/tw_confetti_04
+  rotate: false
+  xy: 1224, 466
+  size: 463, 459
+  orig: 468, 484
+  offset: 0, 3
+  index: -1
+free_particle2_unpack/tw_confetti_05
+  rotate: false
+  xy: 1431, 927
+  size: 464, 462
+  orig: 468, 484
+  offset: 0, 1
+  index: -1
+free_particle2_unpack/tw_confetti_06
+  rotate: true
+  xy: 1431, 1391
+  size: 462, 467
+  orig: 468, 484
+  offset: 0, 0
+  index: -1
+free_particle2_unpack/tw_confetti_07
+  rotate: true
+  xy: 759, 793
+  size: 462, 463
+  orig: 468, 484
+  offset: 0, 0
+  index: -1
+free_particle2_unpack/tw_confetti_08
+  rotate: true
+  xy: 1, 732
+  size: 462, 463
+  orig: 468, 484
+  offset: 0, 0
+  index: -1
+free_particle2_unpack/tw_confetti_09
+  rotate: true
+  xy: 907, 3
+  size: 461, 458
+  orig: 468, 484
+  offset: 0, 0
+  index: -1
+free_particle2_unpack/tw_confetti_10
+  rotate: true
+  xy: 451, 2
+  size: 462, 454
+  orig: 468, 484
+  offset: 0, 0
+  index: -1
+fs_buttom_light_unpack/bl_vfx_b_add
+  rotate: false
+  xy: 1, 1196
+  size: 756, 657
+  orig: 756, 657
+  offset: 0, 0
+  index: -1
+fs_buttom_light_unpack/bl_vfx_e_add
+  rotate: true
+  xy: 759, 1257
+  size: 596, 670
+  orig: 596, 670
+  offset: 0, 0
+  index: -1
+
+free_spin3.png
+size: 1279,870
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+free_particle2_unpack/tw_confetti_01
+  rotate: true
+  xy: 1, 415
+  size: 454, 442
+  orig: 468, 484
+  offset: 0, 0
+  index: -1
+free_particle2_unpack/tw_confetti_11
+  rotate: false
+  xy: 445, 420
+  size: 417, 449
+  orig: 468, 484
+  offset: 38, 0
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_12
+  rotate: false
+  xy: 417, 3
+  size: 408, 410
+  orig: 438, 432
+  offset: 20, 10
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_13
+  rotate: true
+  xy: 827, 2
+  size: 416, 418
+  orig: 438, 432
+  offset: 14, 4
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_14
+  rotate: true
+  xy: 1, 1
+  size: 412, 414
+  orig: 438, 432
+  offset: 16, 8
+  index: -1
+fs_basemap_fireworks2_unpack/bl_vfx_a_add_15
+  rotate: false
+  xy: 864, 455
+  size: 414, 414
+  orig: 438, 432
+  offset: 16, 3
+  index: -1
